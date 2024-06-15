@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tags Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .box {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Example of `<div>`, `<pre>`, `<sub>`, and `<sup>` Tags in HTML</h1>
+
+    <h2>&lt;div&gt; Tag:</h2>
+    <div class="box">
+        <p>This is a `<div>` element used for grouping content.</p>
+    </div>
+
+    <h2>&lt;pre&gt; Tag:</h2>
+    <div class="box">
+        <pre>
+            This is a preformatted text block.
+            It preserves whitespace and line breaks.
+        </pre>
+    </div>
+
+    <h2>&lt;sub&gt; and &lt;sup&gt; Tags:</h2>
+    <div class="box">
+        <p>This text contains <sub>subscript</sub> and <sup>superscript</sup> examples.</p>
+    </div>
+
+</body>
+</html>
